@@ -42,6 +42,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 ##    
 
+##
+
+![badge](./assets/Badge-Conversor.png)
+
+##
+
 ### *Licença*
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
