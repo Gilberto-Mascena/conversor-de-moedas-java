@@ -17,6 +17,14 @@ Neste projeto foram implementadas 6 opções de conversão de moedas, sendo elas
 
 ##
 
+- ##### Como executar o projeto:
+1 - Criar key(chave) na [ExchangeRate-API](https://www.exchangerate-api.com/), gratuitamente.
+2 - Criar na raís do projeto um arquivo **.env**, dentro do arquivo copie e cole **API_KEY_EXCHANGE_RATE_API = "cole aqui a chave criada no site da api"**
+3 - Caso não tenha instalado na sua máquina o Java, precisará dele, **JRE**(só para executar o projeto) ou **JDK**(modificar/desenvolver e compilar o projeto), recomendação versão 21 LTS, facilmente encontrado na internet.
+4 - Uma IDE como por exemplo Intellij CE.
+
+##
+
 ### *Imagem do projeto em execução*
 
 ![img](./assets/starting-project.png)
