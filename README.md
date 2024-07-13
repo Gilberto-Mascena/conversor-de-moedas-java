@@ -82,7 +82,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 ##     
 
 ### *Badge do projeto*
-![badge](./assets/Badge-Conversor.png)
+<img alingn="center" src="./assets/Badge-Conversor.png" alt="badge ONE" width="300">
 
 ##
 
