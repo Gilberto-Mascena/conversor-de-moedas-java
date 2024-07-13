@@ -70,8 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
 <img alingn="center" alt="Gilberto Mascena-junit" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
 
 <img alingn="center" alt="Gilberto Mascena-git" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
