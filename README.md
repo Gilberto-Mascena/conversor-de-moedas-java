@@ -28,17 +28,17 @@ Projeto desenvolvido em Java, utilizando o framework Spring Boot, na linha de co
 ---
 
 ## *Tecnologias usadas*
-- Java 21
-- Spring Boot
-- Maven
-- Git
+- [Java 21](https://www.oracle.com/br/java/technologies/downloads/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Maven](https://maven.apache.org/)
+- [Git](https://git-scm.com/)
 ---
 
 ## Pré requisitos
 
-- Java 21 ou superior
-- Maven
-- Git
+- [Java 21 ou superior](https://www.oracle.com/br/java/technologies/downloads/)
+- [Maven](https://maven.apache.org/)
+- [Git](https://git-scm.com/)
 - Conta na API [ExchangeRate-API](https://www.exchangerate-api.com/), e gere uma chave para consumir a API
 
 ---
