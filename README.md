@@ -25,14 +25,12 @@ Projeto desenvolvido em Java, utilizando o framework Spring Boot, na linha de co
 * _*EUR(Euro) => USD(Dólar)*_
 * _*USD(Dólar) => EUR(Euro)*_
 
----
 
 ## *Tecnologias usadas*
 - [Java 21](https://www.oracle.com/br/java/technologies/downloads/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Maven](https://maven.apache.org/)
 - [Git](https://git-scm.com/)
----
 
 ## Pré requisitos
 
@@ -40,8 +38,6 @@ Projeto desenvolvido em Java, utilizando o framework Spring Boot, na linha de co
 - [Maven](https://maven.apache.org/)
 - [Git](https://git-scm.com/)
 - Conta na API [ExchangeRate-API](https://www.exchangerate-api.com/), e gere uma chave para consumir a API
-
----
 
 ## Como executar o projeto:
 
@@ -61,19 +57,13 @@ Projeto desenvolvido em Java, utilizando o framework Spring Boot, na linha de co
     mvn spring-boot:run
 ```
 
----
-
 ## *Imagem do projeto em execução*
 
 ![img](./assets/starting-project.png)
 
---- 
-
 ## *Badge do projeto*
 <img alingn="center" src="./assets/Badge-Conversor.png" alt="badge ONE" width="300">
 
----
-
 ## *Licença*
 
-*The* [*MIT License*](LICENSE.md) (*MIT*)
+[*MIT License*](LICENSE.md) (*MIT*)
