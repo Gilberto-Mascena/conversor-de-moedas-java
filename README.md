@@ -4,6 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/conversor-de-moedas-java)](https://github.com/Gilberto-Mascena/conversor-de-moedas-java/issues)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/conversor-de-moedas-java)
 
+[Português Brasileiro](https://github.com/Gilberto-Mascena/conversor-de-moedas-java/blob/main/README.md) |
+[English](https://github.com/Gilberto-Mascena/conversor-de-moedas-java/blob/main/README-en.md)
 # *Challenger ONE Formação back-end java*
 
 ## *🚀 Sobre o projeto*
