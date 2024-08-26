@@ -66,4 +66,6 @@ Projeto desenvolvido em Java, utilizando o framework Spring Boot, na linha de co
 
 ## *Licença*
 
-[*MIT License*](LICENSE.md) (*MIT*)
+[*Licença MIT*](LICENSE.md) (*MIT*)
+
+### Gilberto | Dev _2024_
