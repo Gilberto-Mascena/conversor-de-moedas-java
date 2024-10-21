@@ -67,15 +67,17 @@ public class Instatiation {
 
     private void convert(String coin, Double value) {
 
-        System.out.println("Digite o valor a ser convertido: ");
+        System.out.print("Digite o valor a ser convertido: ");
         amount = Double.parseDouble(sc.nextLine());
 
         if (amount > 0) {
             double result = amount * value;
+            System.out.println();
             System.out.println("Valor convertido => " + String.format("%.2f", result) + coin + "\n");
         }
 
         else  {
+            System.out.println();
             System.out.println("Digite um valor maior ou igual a um!\n");
         }
     }
