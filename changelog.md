@@ -1,7 +1,6 @@
 _**Changes in this Version**_
-
-- _Updates in this release:_
-    - _Updated version of SpringBoot_
-      - _Version 3.3.4_
-  - _Updated interface_
-  - _updated delete files_
+    
+- _Added a new feature to the application_
+  - _SpringBoot version 3.3.5_
+  - _Added exception handling_
+  - _Translated to English_
